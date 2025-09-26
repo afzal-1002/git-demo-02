@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 This is Main Branch 
-=======
 New Line Addes in this file:
 
 New File For Stash 
->>>>>>> master
